@@ -1,5 +1,4 @@
 ## Installation
-
 ### Script Files
 ..*Copy .JSX Files (ColorSheets, import-rgb, SwatchSort) to:
 ⋅⋅* __MAC__
