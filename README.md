@@ -13,6 +13,7 @@
 2. Setup Data Merge with Excel Spreadsheet ( MUST BE A CSV in Format of ExampleDatamergeSource.csv)
 -- Previous Excel Files had a column of __Garmet__ instead of __Garment__
 3. Import the Swatch Group (NG Swatch Group)
+__Should not need to do this as it is in Master File already__
 - Choose New Color Swatch from the Swatches panel menu.
 - Choose Other Library from the Color Mode list, and then select the file from which you want to import swatches.
 - Click Open.
@@ -20,11 +21,10 @@
 - Click OK.
 
 ### Data Merge + Setup for Processing
-1. Link Indesign DataMerge to CSV File
-2. Run Data Merge
-3. Upon Finish, Save Document
-4. Select All Pages, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
-5. Save Document
+1. Execute Data Merge
+2. Upon Finish, Save Document
+3. Select All Pages, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
+4. Save Document
 
 ### Process Sheets
 1. Open Scripts Panel (Windows --> Utilities --> Scripts)
