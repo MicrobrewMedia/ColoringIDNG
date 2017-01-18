@@ -22,8 +22,8 @@ __Should not need to do this as it is in Master File already__
 
 ### Data Merge + Setup for Processing
 1. Execute Data Merge
-2. Upon Finish, Save Document
-3. Select All Pages, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
+2. Upon Finish, Save Newly Created Document
+3. Select All Pages in Pages Panel, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
 4. Save Document
 
 ### Process Sheets
