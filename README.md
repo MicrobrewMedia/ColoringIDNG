@@ -14,11 +14,11 @@
 -- Previous Excel Files had a column of __Garmet__ instead of __Garment__
 3. Import the Swatch Group (NG Swatch Group)
 __Should not need to do this as it is in Master File already__
-- Choose New Color Swatch from the Swatches panel menu.
-- Choose Other Library from the Color Mode list, and then select the file from which you want to import swatches.
-- Click Open.
-- Select the swatches you want import
-- Click OK.
+  - Choose New Color Swatch from the Swatches panel menu.
+  - Choose Other Library from the Color Mode list, and then select the file from which you want to import swatches.
+  - Click Open.
+  - Select the swatches you want import
+  - Click OK.
 
 ### Data Merge + Setup for Processing
 1. Execute Data Merge
