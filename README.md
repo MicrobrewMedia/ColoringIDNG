@@ -4,6 +4,10 @@
   -  __MAC__  /Applications/Adobe Indesign/Scipts/
   - __PC__  C://Programs/Adobe Indesign/Scripts/
 
+### Font Install
+1. Unzip RequiredFonts.zip
+2. Double Click on Fonts and Install to Mac or PC
+
 ### File Setup
 1. Open Master Sheet File (MasterSheetTemplate.indd)
 2. Setup Data Merge with Excel Spreadsheet ( MUST BE A CSV in Format of ExampleDatamergeSource.csv)
@@ -16,10 +20,11 @@
 - Click OK.
 
 ### Data Merge + Setup for Processing
-1. Execute Data Merge
-2. Upon Finish, Save Document
-3. Select All Pages, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
-4. Save Document
+1. Link Indesign DataMerge to CSV File
+2. Run Data Merge
+3. Upon Finish, Save Document
+4. Select All Pages, Right Click and hit Apply Master Overrides (To Gain Access to all Layers)
+5. Save Document
 
 ### Process Sheets
 1. Open Scripts Panel (Windows --> Utilities --> Scripts)
