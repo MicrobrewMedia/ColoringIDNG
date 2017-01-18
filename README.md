@@ -1,7 +1,7 @@
 ## Installation
 ### Script Files
 - Copy .JSX Files (ColorSheets, import-rgb, SwatchSort) to:
-  -  __MAC__  /Applications/Adob Indesign/Scipts/
+  -  __MAC__  /Applications/Adobe Indesign/Scipts/
   - __PC__  C://Programs/Adobe Indesign/Scripts/
 
 ### File Setup
