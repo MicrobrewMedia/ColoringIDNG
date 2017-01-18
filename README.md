@@ -5,13 +5,14 @@
   - __PC__  C://Programs/Adobe Indesign/Scripts/
 
 ### File Setup
-1. Open Master Sheet File
-2. Setup Data Merge with Excel Spreadsheet (CSV) 
+1. Open Master Sheet File (MasterSheetTemplate.indd)
+2. Setup Data Merge with Excel Spreadsheet ( MUST BE A CSV in Format of ExampleDatamergeSource.csv)
+-- Previous Excel Files had a column of __Garmet__ instead of __Garment__
 3. Import the Swatch Group (NG Swatch Group)
 - Choose New Color Swatch from the Swatches panel menu.
 - Choose Other Library from the Color Mode list, and then select the file from which you want to import swatches.
 - Click Open.
-- Select the swatches you want import.
+- Select the swatches you want import
 - Click OK.
 
 ### Data Merge + Setup for Processing
